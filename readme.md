@@ -10,4 +10,5 @@
 the body should be : {
     "content": "A quick brown fox jumps over the lazy dogs"
 }
-10. To retrieve a text there is a GET endpoint: localhost:3000/api/text/:id , you need to pass id of the created analysis. 
+10. To retrieve a text there is a GET endpoint: localhost:3000/api/text/:id , you need to pass id of the created analysis.
+11. No logger is added.
